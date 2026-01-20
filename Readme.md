@@ -58,6 +58,6 @@ The objective of the game is for the player to reach exactly position 100. The p
 - Score tracking and statistics
 - Save and resume gameplay
 
-## Priview
+## Preview
 ![image](https://github.com/saratbanik/Snakes-and-Ladders-Game/blob/main/Image/Preview1.png)
 ![image](https://github.com/saratbanik/Snakes-and-Ladders-Game/blob/main/Image/Priview2.png)
