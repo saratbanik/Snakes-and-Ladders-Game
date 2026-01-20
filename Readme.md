@@ -1,4 +1,4 @@
-# Snakes & Ladders Game (C Programming)
+# Snakes & Ladders Game
 
 ## Project Description
 This project is a console-based implementation of the traditional Snakes & Ladders game developed using the C programming language. The game simulates dice rolls, player movement, and the effects of snakes and ladders on a standard 100-square board.
@@ -58,4 +58,5 @@ The objective of the game is for the player to reach exactly position 100. The p
 - Score tracking and statistics
 - Save and resume gameplay
 
-![image]()
+![image](https://github.com/saratbanik/Snakes-and-Ladders-Game/blob/main/Image/Preview1.png)
+![image](https://github.com/saratbanik/Snakes-and-Ladders-Game/blob/main/Image/Preview2.png)
