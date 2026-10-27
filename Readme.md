@@ -61,3 +61,10 @@ The objective of the game is for the player to reach exactly position 100. The p
 ## Preview
 ![image](https://github.com/saratbanik/Snakes-and-Ladders-Game/blob/main/Image/Preview1.png)
 ![image](https://github.com/saratbanik/Snakes-and-Ladders-Game/blob/main/Image/Priview2.png)
+---
+
+<div align="center">
+
+**Developed by [SARAT BANIK](https://www.linkedin.com/in/saratbanik)**
+
+</div>
